@@ -1,0 +1,38 @@
+body{
+    background-color: azure
+}
+.tela
+{
+    background-color: rgb(223, 219, 219);
+    color: red;
+    width: 400px;
+    height:400px;
+    margin:110px 0 0 480px;
+    padding-top: 50px;
+    text-align: center;
+    border-radius: 20px;
+}
+.tela input{
+display: block;
+margin: 5px 10px 10px 15px;
+width: 85%;
+padding: 5px;
+border-radius: 20px;
+font-size:30px;
+color: rgb(148, 148, 151);
+}
+.tela label{
+display: block;
+padding:10px 10px 5px 15px;
+font-size: 30px;
+color: black;
+}
+.tela button{
+     
+    }
+
+.tela img{
+    display: block;
+    margin-top: 50px;
+    margin-left: 100px;
+}
